@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on github
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning coding
+- My favorite hobby is travelling.
 -
 -->
